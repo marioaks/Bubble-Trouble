@@ -1,0 +1,14 @@
+This game is called Bubble Trouble! 
+
+The objective of the game is to shoot all the bubbles until they are small enough to disappear. If you get hit by one of the bouncing bubbles, you lose a life. 
+
+The left and right arrow keys control the character's movement, and the space bar is used to shoot. You can only shoot until after your previous shot has either hit a bubble or the ceiling.
+
+Randomly, a power-up will fall out of a bubble that has been hit. These power-ups can either be a heart that if collected gives you an extra life, a clock that gives you some extra time, and an arrow that if collected shifts the gravity and has the character run on the ceiling and have the bubbles bounce on the ceiling instead of the floor.  
+
+Cool Features:
+ - Automatic (not hard-coded) Levels
+ - Keeping track of High Score
+ - Gravity Shift power-up
+ - Power-up animations. (Opacity fade out)
+ - On-screen animated timer. 
